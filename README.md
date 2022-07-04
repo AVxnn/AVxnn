@@ -3,7 +3,7 @@ const VXNN = {
     about: {
         name: "George Romashko",
         county: "Russia",
-        city: "Pyt-Yach",
+        city: "Saint-Peterburg",
         company: undefined,
         profession: "Front-end Developer"
         hobbies: ["Games", "Coding", "Painting", ""]
