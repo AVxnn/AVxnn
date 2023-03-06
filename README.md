@@ -4,12 +4,12 @@ const VXNN = {
         name: "George Romashko",
         county: "Russia",
         city: "Saint-Peterburg",
-        company: undefined,
+        company: "EyeTronic",
         profession: "Front-end Developer"
         hobbies: ["Games", "Coding", "Painting", ""]
     },
     soft-skills: ["Self-organization", "Communication", "Creative", "Adaptability", "Openness to criticism"],
-    hard-skills: ["JAVASCRIPT", "HTML", "CSS", "SASS", "REACT", "REDUX", "MobX", "NEXT(+-)", "TYPESCRIPT(+-)", "GIT", "API", "and other"],
+    hard-skills: ["JAVASCRIPT", "HTML", "CSS", "SASS", "REACT", "REDUX", "MobX", "NEXT(+-)", "TYPESCRIPT(+-)", "GIT", "API", "DOCKER", "NODE.JS", "and other"],
     pet-projects: [
         petchat: {
             desctiption: "I wrote on react, used it as a firebase repository, chat, news feed, music, profile works",
