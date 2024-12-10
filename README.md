@@ -3,13 +3,13 @@ const MetaVxnn = {
     about: {
         name: "George Romashko",
         county: "Russia",
-        city: "Saint-Peterburg",
-        company: null,
+        city: "Saint-Petersburg",
+        company: "Kokoc Group | Wame.tools",
         profession: "Front-end Developer"
-        hobbies: ["Games", "Coding", "Painting", ""]
+        hobbies: ["Games", "Coding", "Painting", "Design", "Electric guitar"]
     },
     soft-skills: ["Self-organization", "Communication", "Creative", "Adaptability", "Openness to criticism"],
-    hard-skills: ["JAVASCRIPT", "HTML", "CSS", "SASS", "REACT", "REDUX", "MobX", "NEXT", "TYPESCRIPT", "GIT", "API", "DOCKER", "NODE.JS", "and other"],
+    hard-skills: ["JAVASCRIPT", "HTML", "CSS", "SASS", "REACT", "REDUX", "MobX", "Valtio", "NEXT", "TYPESCRIPT", "GIT", "API", "DOCKER", "NODE.JS", "and other"],
     pet-projects: [
         gamecust: {
             desctiption: "My main project - GameCust",
@@ -32,10 +32,18 @@ const MetaVxnn = {
             repository: "https://github.com/AVxnn/SpaceGame"
         }
     ],
-    links: {
+    contacts: {
         telegram: "@romashkog",
         website: "thevann.ru",
         email: "george@thevann.ru"
+        secondemail: "thevxnn@icloud.com"
+    },
+    languages: {
+        russian: "Native",
+        english: "B1"
+    },
+    resume: {
+        english: "https://keen-patella-9e6.notion.site/Romashko-George-Resume-350cd1b8871d4472822f742e0add1462?pvs=74"
     }
 }
 ```
