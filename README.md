@@ -4,7 +4,7 @@ const MetaVxnn = {
         name: "George Romashko",
         county: "Russia",
         city: "Saint-Petersburg",
-        company: "Kokoc Group | Wame.tools",
+        company: "Ton Pricon | Telegram game",
         profession: "Front-end Developer"
         hobbies: ["Games", "Coding", "Painting", "Design", "Electric guitar"]
     },
@@ -35,8 +35,7 @@ const MetaVxnn = {
     contacts: {
         telegram: "@romashkog",
         website: "thevann.ru",
-        email: "george@thevann.ru"
-        secondemail: "thevxnn@icloud.com"
+        email: "thevxnn@icloud.com"
     },
     languages: {
         russian: "Native",
