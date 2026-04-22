@@ -4,7 +4,7 @@ const MetaVxnn = {
         name: "George Romashko",
         county: "Russia",
         city: "Saint-Petersburg",
-        company: "Ton Pricon | Telegram game",
+        company: undefined,
         profession: "Front-end Developer"
         hobbies: ["Games", "Coding", "Painting", "Design", "Electric guitar"]
     },
